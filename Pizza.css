@@ -1,0 +1,287 @@
+header{
+    display: flex;
+    background-color: #F8FAFB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-left: 70px;
+}
+.navBar ul{
+    display: flex;
+    font-family: poppins;
+}
+.logo img{
+    width: 80px;
+    height: auto;
+}
+.navBar ul li{
+    list-style-type: none;
+    justify-content: center;
+    margin-right: 20px;
+}
+.First{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.First img{
+    height: auto;
+    width: 500px; ;
+}
+h5{
+    font-size: 30px;
+    font-family: poppins;
+    padding-left: 70px;
+}
+.Body1 p{
+    font-size: 15px;
+    font-family: poppins;
+    padding-left: 70px;
+}
+.btn1{
+    height: 50px;
+    width: 150px;
+    margin-left: 70px;
+    background-color: #FD794F;
+    color: black;
+    font-weight: bold;
+    border: none;
+    font-family: poppins;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.btn2{
+    height: 50px;
+    width: 150px;
+    margin-left: 70px;
+    background-color: #131313;
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-family: poppins;
+    border-radius: 5px;
+}
+.Second{
+    display: flex;
+    background-color:#FD794F;
+    justify-content: center;
+}
+
+.Second div p{
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    font-size: 27px;
+}
+
+.Second div{
+    margin-right: 100px;
+}
+
+.Second div:nth-child(3){
+    margin: 0;
+}
+h3{
+    font-size: 36px;
+}
+.Third{
+    display: flex;
+    justify-content: space-between;
+}
+.Third img{
+    height: auto;
+    width: 400px;
+}
+h4{
+    font-family: 'Poppins';
+    font-weight: 80px;
+    font-size: 25px;
+    line-height: 54px;
+    margin-right: 80px;
+    padding-left: 70px;
+}
+.Third div p{
+    justify-content: center;
+    margin-right: 200px;
+    padding-right: 
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(19, 19, 19, 0.5);
+}
+.Fouth{
+    display: flex;
+    justify-content: space-around;
+}
+.FouthText{
+    width: 200px;
+    height: auto;
+}
+.Fouth img{
+    width: 400px;
+    height: auto;
+    justify-content: center;
+}
+.Fouth div p{
+    color: #131313;
+    justify-content: center;
+    margin-right: 200px;
+    padding-right: 80px;
+    font-family: poppins;
+    font-size: 15px;
+}
+.checkbox{
+    display: flex;
+    align-items: center;
+ 
+}
+.checkbox img{
+    width: 60px;
+    height: 60px;
+    margin-right: 40px;
+    padding-left: 80px;
+}
+h1{
+    font-family: Poppins;
+    width: 400;
+    font-Size: 20px;
+}
+.Fifth{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.pizza1 img:nth-of-type(1){
+    width: 404px;
+    height: 242px;
+}
+.pizza1 img:nth-of-type(2){
+    width: 552px;
+    height: 322px;
+}
+.pizza2 img:nth-of-type(1){
+    width: 436px;
+    height: 390px;
+}
+.pizza2 img:nth-of-type(2){
+    width: 552px;
+    height: 322px;
+}
+.DownloadAPP{
+    display: grid;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.DownloadAPP h5{
+    font-family: poppins;
+    font-size: 48px;
+    width: 700;
+    margin: 0px;
+    padding: 0px;
+}
+.DownloadAPP p{
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn3{
+    background-color: white;
+    color: #FD794F;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.sixth{
+    background-color: #FD794F;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 766px;
+}
+.sixth h2{
+    display: grid;
+       justify-content: center;
+    height: 72px;
+    color: #fff;
+    font-weight: 700;
+}
+.Test{
+    background-color: white;
+    width: 854px;
+    height: 484px;
+    display: FLEX;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Test p {
+    text-align: center;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Test h1 {
+    width: 121px;
+    color: #FD794F;
+}
+.Seventh{
+    display: grid;
+    justify-content: center;
+    margin-bottom: 94px;
+}
+
+.Seventh .Get h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    Width:540px;
+}
+.Seventh .Get p{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px;
+}
+input{
+    Width:400px;
+    Height:80px;
+    margin-right: 25px;
+    padding-left: 20px;
+}
+.btn12{
+    Width:200px;
+    Height:80px;
+    background-color: #FD794F;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+.Eight{
+    background-color: black;
+    color: #fff;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.List{
+    display: flex;
+}
+h6{
+    text-align: center;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 28px;
+}
+.icons img{
+    margin-right: 15px;
+    margin-top: 62.64px;
+}
